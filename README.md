@@ -1,2 +1,2 @@
 # Web-Development-Project
-Webpage build using HTML and CSS
+Webpage built using HTML and CSS
